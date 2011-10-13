@@ -1,7 +1,3 @@
-# John Doe
+# Chris Jacob
 
-Twitter: [@johndoe](http://twitter.com/#!/johndoe)
-
-
-
-Welcome to your ad-hoc GitHub Profile... _add what ever you want!_
+Twitter: [@_chrisjacob](http://twitter.com/_chrisjacob)
