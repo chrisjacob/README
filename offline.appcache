@@ -1,0 +1,23 @@
+CACHE MANIFEST
+
+#version 1.0 10-14-2011
+
+CACHE:
+
+#images
+http://github.com/images/modules/download/tar.png
+http://github.com/images/modules/download/zip.png
+http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png
+
+#internal HTML documents
+http://chrisjacob.github.com/README/
+
+#style sheets
+
+#style sheet images
+
+#javascript files
+
+
+NETWORK:
+*
