@@ -1,11 +1,12 @@
 ---
-info: This YAML Front Matter forces Jekyll processing on this file. Giving us the {{ site.time }} timestamp. On each `git push` to GitHub this file is updated, causing browsers to update the application cache.
+info: This "YAML Front Matter" forces Jekyll processing on the file. Giving us the {{ site.time }} timestamp. On each `git push` to GitHub this file is updated, causing browsers to update their offline application cache.
 ---
 
 CACHE MANIFEST
 
 # version {{ site.time }}
 # http://appcachefacts.info/
+
 
 CACHE:
 README.html
@@ -16,3 +17,6 @@ NETWORK:
 *
 http://*
 https://*
+
+
+FALLBACK:
