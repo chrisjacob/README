@@ -1,6 +1,10 @@
+---
+wtf: This YAML Front Matter forces Jekyll processing on the file. Giving us the {{ site.time }} timestamp, to auto cache bust on each `git push` to GitHub.
+---
+
 CACHE MANIFEST
 
-#version 2.0 10-14-2011
+#version 2.0 {{ site.time }}
 
 CACHE:
 
