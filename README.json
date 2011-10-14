@@ -1,0 +1,25 @@
+{
+  "name":             "Chris Jacob"
+, "email":            "i.chris.jacob@gmail.com"
+, "website":          "http://about.me/chrisjacob"
+, "company":          "Christopher Jacob"
+, "location":         "14 Oscar Ramsay Drive, Boambee East, NSW 2452, Australia"
+, "ids": {
+      "github":       "chrisjacob"
+    , "twitter":      "_chrisjacob"
+    , "facebook":     "i.chris.jacob"
+    , "google-plus":  "107902827369312495769"
+  }
+, "professional": {
+      "status":       "freelancer"
+    , "for-hire":     true
+    , "skills":       ["HTML", "CSS", "JavaScript"]
+    , "bio":          "I like hacking..."
+  }
+, "personal": {
+      "status":       "engaged"
+    , "gender":       "male"
+    , "dob":          "1985-06-19"
+    , "bio":          "I like soccer..."
+  }
+}

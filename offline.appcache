@@ -4,17 +4,14 @@ wtf: This YAML Front Matter forces Jekyll processing on the file. Giving us the 
 
 CACHE MANIFEST
 
-#version 2.0 {{ site.time }}
+#version {{ site.time }}
 
 CACHE:
 
-#images
-#http://github.com/images/modules/download/tar.png
-#http://github.com/images/modules/download/zip.png
-#http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png
-
 #internal HTML documents
 http://chrisjacob.github.com/README/
+
+#images
 
 #style sheets
 
