@@ -10,6 +10,7 @@ CACHE:
 
 #internal HTML documents
 http://chrisjacob.github.com/README/
+http://chrisjacob.github.com/README/README.markdown
 
 #images
 
@@ -18,6 +19,7 @@ http://chrisjacob.github.com/README/
 #style sheet images
 
 #javascript files
+http://chrisjacob.github.com/README/README.json
 
 
 NETWORK:
