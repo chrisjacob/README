@@ -9,8 +9,7 @@ CACHE MANIFEST
 CACHE:
 
 #internal HTML documents
-http://chrisjacob.github.com/README/
-http://chrisjacob.github.com/README/README.markdown
+http://chrisjacob.github.com/README/README.html
 
 #images
 
