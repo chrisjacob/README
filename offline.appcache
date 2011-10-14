@@ -1,25 +1,18 @@
 ---
-wtf: This YAML Front Matter forces Jekyll processing on the file. Giving us the {{ site.time }} timestamp, to auto cache bust on each `git push` to GitHub.
+info: This YAML Front Matter forces Jekyll processing on this file. Giving us the {{ site.time }} timestamp. On each `git push` to GitHub this file is updated, causing browsers to update the application cache.
 ---
 
 CACHE MANIFEST
 
-#version {{ site.time }}
+# version {{ site.time }}
+# http://appcachefacts.info/
 
 CACHE:
-
-#internal HTML documents
-http://chrisjacob.github.com/README/README.html
-
-#images
-
-#style sheets
-
-#style sheet images
-
-#javascript files
-http://chrisjacob.github.com/README/data.json
+README.html
+README.json
 
 
 NETWORK:
 *
+http://*
+https://*

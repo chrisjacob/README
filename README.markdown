@@ -1,5 +1,5 @@
 ---
-layout: README
+layout: default
 ---
 
 # Chris Jacob
